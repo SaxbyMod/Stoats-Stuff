@@ -42,7 +42,7 @@ namespace TribalLibary
                     "skeletal",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_skeletal.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_UNDEAD_skeletal.png")
                  );
             }
             {
@@ -51,7 +51,7 @@ namespace TribalLibary
                     "fleshy",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_fleshy.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_UNDEAD_fleshy.png")
                  );
             }
             {
@@ -60,7 +60,7 @@ namespace TribalLibary
                     "spectral",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_spectral.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_UNDEAD_spectral.png")
                  );
             }
             {
@@ -69,7 +69,7 @@ namespace TribalLibary
                     "vessel",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_vessel.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_UNDEAD_vessel.png")
                  );
             }
             {
@@ -78,7 +78,7 @@ namespace TribalLibary
                     "conduits",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_conduits.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_TECH_conduits.png")
                  );
             }
             {
@@ -87,7 +87,7 @@ namespace TribalLibary
                     "cells",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_cells.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_TECH_cells.png")
                  );
             }
             {
@@ -96,7 +96,7 @@ namespace TribalLibary
                     "utillity",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_utillity.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_TECH_utillity.png")
                  );
             }
             {
@@ -105,7 +105,7 @@ namespace TribalLibary
                     "security",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_security.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_TECH_security.png")
                  );
             }
             {
@@ -114,7 +114,7 @@ namespace TribalLibary
                     "scholar",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_scholar.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_MAGIKS_scholar.png")
                  );
             }
             {
@@ -123,7 +123,7 @@ namespace TribalLibary
                     "guardian",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_guardian.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_MAGIKS_guardian.png")
                  );
             }
             {
@@ -132,7 +132,7 @@ namespace TribalLibary
                     "mox",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_mox.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_MAGIKS_mox.png")
                  );
             }
             {
@@ -141,7 +141,7 @@ namespace TribalLibary
                     "tentacle",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_tentacle.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_NATURE_tentacle.png")
                  );
             }
             {
@@ -150,7 +150,7 @@ namespace TribalLibary
                     "everything",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_everything.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_everything.png")
                  );
             }
             {
@@ -159,7 +159,7 @@ namespace TribalLibary
                     "fungus",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_fungus.png"),
                     appearInTribeChoices: true,
-                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_fungus.png")
                  );
             }
         }
