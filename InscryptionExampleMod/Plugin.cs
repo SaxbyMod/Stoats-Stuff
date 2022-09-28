@@ -26,8 +26,11 @@ namespace TribalLibary
         public static Tribe scholarTribe;
         public static Tribe guardianTribe;
         public static Tribe moxTribe;
+        public static Tribe tentacleTribe;
+        public static Tribe everythingTribe;
+        public static Tribe fungusTribe;
 
-        
+
 
         public void Awake()
         {
@@ -128,6 +131,33 @@ namespace TribalLibary
                     PluginGuid,
                     "mox",
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_mox.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                 );
+            }
+            {
+                tentacleTribe = TribeManager.Add(
+                    PluginGuid,
+                    "tentacle",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_tentacle.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                 );
+            }
+            {
+                everythingTribe = TribeManager.Add(
+                    PluginGuid,
+                    "everything",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_everything.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
+                 );
+            }
+            {
+                fungusTribe = TribeManager.Add(
+                    PluginGuid,
+                    "fungus",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_fungus.png"),
                     appearInTribeChoices: true,
                     choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_example.png")
                  );
