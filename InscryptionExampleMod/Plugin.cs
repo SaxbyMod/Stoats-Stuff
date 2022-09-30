@@ -8,9 +8,9 @@ namespace TribalLibary
     [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
     [BepInDependency("cyantist.inscryption.api", BepInDependency.DependencyFlags.HardDependency)]
     public class Plugin : BaseUnityPlugin
-        
+
     {
-        
+
         private const string PluginGuid = "tribes.libary";
         private const string PluginName = "TribeLibary";
         private const string PluginVersion = "1.0.0";
@@ -29,14 +29,13 @@ namespace TribalLibary
         public static Tribe tentacleTribe;
         public static Tribe everythingTribe;
         public static Tribe fungusTribe;
-
-
+        public static Tribe rodentTribe;
 
         public void Awake()
         {
             Logger.LogInfo($"Sucsessfully Loaded {PluginName}!");
-            { 
-             
+            {
+
                 skeletalTribe = TribeManager.Add(
                     PluginGuid,
                     "skeletal",
@@ -160,6 +159,15 @@ namespace TribalLibary
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_fungus.png"),
                     appearInTribeChoices: true,
                     choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_fungus.png")
+                 );
+            }
+            {
+                rodentTribe = TribeManager.Add(
+                    PluginGuid,
+                    "rodent",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_rodent.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_NATURE_rodent.png")
                  );
             }
         }
