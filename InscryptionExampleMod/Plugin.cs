@@ -30,6 +30,7 @@ namespace TribalLibary
         public static Tribe everythingTribe;
         public static Tribe fungusTribe;
         public static Tribe rodentTribe;
+        public static Tribe ceromorphTribe;
 
         public void Awake()
         {
@@ -168,6 +169,15 @@ namespace TribalLibary
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_rodent.png"),
                     appearInTribeChoices: true,
                     choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_NATURE_rodent.png")
+                 );
+            }
+            {
+                ceromorphTribe = TribeManager.Add(
+                    PluginGuid,
+                    "ceromorph",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_ceromorph.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_MAGIKS_ceromorph.png")
                  );
             }
         }
