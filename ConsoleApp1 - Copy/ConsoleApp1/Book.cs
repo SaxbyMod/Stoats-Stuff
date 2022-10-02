@@ -8,9 +8,11 @@ namespace ConsoleApp1
 {
     internal class Book1
     {
+        // This is The Book Object
         public string title;
         public string author;
         public int pages;
+        public static int bookCount = 0;
 
         public Book1(string aTitle, string aAuthor, int aPages)
         {
@@ -19,6 +21,17 @@ namespace ConsoleApp1
             title = aTitle;
             author = aAuthor;
             pages = aPages;
+            bookCount++;
+            
+        }
+
+        public bool isBook()
+        {
+            if (pages >= 20)
+            {
+                return true;
+            }
+            return false;
         }
     }
 }
