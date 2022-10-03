@@ -12,22 +12,27 @@ namespace ConsoleApp1
         public string title;
         public string author;
         public int pages;
+        public string firstName;
+        public string lastName;
         public static int bookCount = 0;
+        public int bookNumber;
 
-        public Book1(string aTitle, string aAuthor, int aPages)
+        public Book1(string aTitle, string aAuthor, int aPages, string aFirstName, string aLastName, int aBookNumber)
         {
-            Console.WriteLine("Creating Book with title of " + aTitle + "\n");
+            Console.WriteLine("Creating Book with title of " + aTitle + "\n\n");
 
             title = aTitle;
             author = aAuthor;
             pages = aPages;
+            firstName = aFirstName;
+            lastName = aLastName;
+            bookNumber = aBookNumber;
             bookCount++;
-            
         }
 
         public bool isBook()
         {
-            if (pages >= 20)
+            if (pages >= 32)
             {
                 return true;
             }
