@@ -21,7 +21,7 @@ Creator-HexScryption is the Hexscryption mod (Json)
 
 Creator-Doctor_Who_Mod is the Doctor Who Mod (Json)
 
-Creator-Kaycees-Mod-Decks is the Kaycees mod decks Mod (Json)
+Creator-Kaycees_mod_decks is the Kaycees mod decks Mod (Json)
 
 Creator-The_Hex_Expansion is the "The hex expansion" Mod (Json)
 
