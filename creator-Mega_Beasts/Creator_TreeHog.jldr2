@@ -1,0 +1,18 @@
+{
+	"name": "TreeHog",
+	"modPrefix": "creator",
+	"displayedName": "Tree Hog",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"bonesCost": 4,
+	"energyCost": 2,
+	"abilities": ["RandomAbility","Sacrificial","TripleBlood","org.memez4life.inscryption.customsigils.Song of sleep","org.memez4life.inscryption.customsigils.Launcher","extraVoid.inscryption.voidSigils.Thief"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "If you grab this you get free trees for defense",
+	"texture": "TreeHog.png",
+	"tribes": ["Hooved"],
+	"iceCubeName": "creator_TreeHugger"
+}

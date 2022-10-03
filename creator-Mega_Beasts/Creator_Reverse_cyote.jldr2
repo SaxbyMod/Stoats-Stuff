@@ -1,0 +1,15 @@
+{
+	"name": "Reverse_cyote",
+	"modPrefix": "Creator",
+	"displayedName": "Reverse cyote",
+	"baseAttack": 1,
+	"baseHealth": 2,
+	"bonesCost": 3,
+	"energyCost": 0,
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "This cyote is reversed",
+	"texture": "IGCC_Reverse_cyote.png",
+	"tribes": ["Canine"]
+}

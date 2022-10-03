@@ -1,0 +1,19 @@
+{
+	"name": "The_famus_jury",
+	"modPrefix": "Creator",
+	"displayedName": "The famus jury",
+	"baseHealth": 10,
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["DrawCopyOnDeath","Deathtouch","Evolve","DrawCopy"],
+	"specialAbilities": ["BellProximity","TrapSpawner"],
+	"specialStatIcon": "Bell",
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "Wild maker of pokemon mod has been spotted nice spot buckeroo",
+	"texture": "IGCC_The_infamus_jury.png",
+	"tribes": ["Insect"],
+	"evolveIntoName": "AntQueen",
+	"evolveTurns": 2
+}

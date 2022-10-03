@@ -1,0 +1,18 @@
+{
+	"name": "P03",
+	"modPrefix": "creator",
+	"displayedName": "P03",
+	"baseAttack": 5,
+	"baseHealth": 5,
+	"bloodCost": 2,
+	"bonesCost": 2,
+	"energyCost": 3,
+	"abilities": ["BeesOnHit"],
+	"metaCategories": ["Rare","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"onePerDeck": True,
+	"temple": "Nature",
+	"description": "is this a bug",
+	"texture": "P03.png",
+	"tribes": ["Insect"]
+}

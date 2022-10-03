@@ -1,0 +1,17 @@
+{
+	"name": "Bone_checker",
+	"modPrefix": "creator",
+	"displayedName": "Bone checker",
+	"bonesCost": 4,
+	"energyCost": 0,
+	"abilities": ["DrawCopyOnDeath","CreateDams","DrawCopy"],
+	"specialAbilities": ["Lammergeier"],
+	"specialStatIcon": "Bones",
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "checks your bones",
+	"texture": "IGCC_Bone_checker.png",
+	"tribes": ["Squirrel"],
+	"traits": ["DeathcardCreationNonOption"]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Undead_cat",
+	"modPrefix": "Creator",
+	"displayedName": "Undead cat",
+	"baseAttack": 3,
+	"baseHealth": 7,
+	"bloodCost": 1,
+	"specialAbilities": ["Cat"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Intermediate",
+	"temple": "Nature",
+	"description": "Damn my cats dead",
+	"texture": "IGCC_Undead_cat.png",
+	"tribes": ["Squirrel"]
+}

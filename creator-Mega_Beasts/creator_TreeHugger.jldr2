@@ -1,0 +1,14 @@
+{
+	"name": "TreeHugger",
+	"modPrefix": "creator",
+	"displayedName": "Tree Hugger",
+	"baseAttack": 3,
+	"baseHealth": 4,
+	"bloodCost": 2,
+	"abilities": ["RandomAbility","Sacrificial","TripleBlood"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "a tree monster",
+	"texture": "TreeHugger.png",
+	"tribes": ["Hooved"]
+}

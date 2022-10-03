@@ -1,0 +1,19 @@
+{
+	"name": "Bug",
+	"modPrefix": "creator",
+	"displayedName": "Bug",
+	"baseAttack": 4,
+	"baseHealth": 8,
+	"bloodCost": 2,
+	"bonesCost": 2,
+	"energyCost": 3,
+	"abilities": ["BeesOnHit","org.memez4life.inscryption.customsigils.Launcher","extraVoid.inscryption.voidSigils.Broken"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"onePerDeck": True,
+	"temple": "Nature",
+	"description": "is this a bug",
+	"texture": "bug.png",
+	"tribes": ["Insect"],
+	"iceCubeName": "creator_dragon"
+}

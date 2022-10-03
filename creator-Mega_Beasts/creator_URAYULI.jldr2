@@ -1,0 +1,15 @@
+{
+	"name": "URAYULI",
+	"modPrefix": "Creator",
+	"displayedName": "URAYULI",
+	"baseAttack": 7,
+	"baseHealth": 7,
+	"bloodCost": 4,
+	"abilities": ["Flying"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Simple",
+	"temple": "Nature",
+	"description": "Now with airborne sigil yay",
+	"texture": "IGCC_URAYULI.png",
+	"tribes": ["None"]
+}

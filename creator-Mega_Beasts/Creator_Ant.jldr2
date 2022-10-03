@@ -1,0 +1,15 @@
+{
+	"name": "Ant",
+	"modPrefix": "Creator",
+	"displayedName": "Ant",
+	"baseHealth": 1,
+	"abilities": ["DrawRabbits"],
+	"specialAbilities": ["Ant"],
+	"specialStatIcon": "Ants",
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "sidedeck use",
+	"texture": "IGCC_Ant.png",
+	"tribes": ["Insect"],
+	"traits": ["Ant"]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "poorIvyasaur",
+	"modPrefix": "creator",
+	"displayedName": "poor Ivyasaur",
+	"baseAttack": 2,
+	"baseHealth": 6,
+	"bloodCost": 1,
+	"abilities": ["RandomAbility","extraVoid.inscryption.voidSigils.Thief"],
+	"cardComplexity": "Vanilla",
+	"onePerDeck": True,
+	"temple": "Nature",
+	"description": "why is it such a bad Ivyasaur",
+	"texture": "poorIvyasaur.png",
+	"tribes": ["Reptile"]
+}
