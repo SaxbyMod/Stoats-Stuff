@@ -13,7 +13,7 @@ Random Is the Randomized starter decks mod I made (Json)
 
 Creator-Mega_Beasts is the Mega Beasts Mod (Json)
 
-Creator-Starvation_mod is the Starvation Mod (Json)
+Creator-Starvation_Mod is the Starvation Mod (Json)
 
 Creator-Scrybe_Mod is the Scrybe mod (Json)
 
