@@ -17,5 +17,7 @@ Creator-Starvation_Mod is the Starvation Mod (Json)
 
 Creator-Scrybe_Mod is the Scrybe mod (Json)
 
+Creator-HexScryption is the Hexscryption mod (Json)
+
 
 Use "Issues" for any Suggestions for the Apps || for Issues with anything
