@@ -1,0 +1,20 @@
+{
+  "name": "Reggie",
+  "modPrefix": "HEX",
+  "displayedName": "Rootbeer Reggie",
+  "description": "What a fine lad... May I have a Beer?",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "abilities": [
+    "RandomConsumable"
+  ],
+  "defaultEvolutionName": "Legendary",
+  "texture": "Reggie.png",
+  "emissionTexture": "Reggie_e.png"
+}

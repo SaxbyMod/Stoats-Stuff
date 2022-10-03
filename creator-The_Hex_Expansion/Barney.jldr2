@@ -1,0 +1,21 @@
+{
+  "name": "Captain_Barnay",
+  "modPrefix": "HEX",
+  "displayedName": "Captain Barnay",
+  "description": "Sailor could you help out my goon... The Angler?",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "abilities": [
+    "SkeletonStrafe"
+  ],
+  "defaultEvolutionName": "Eastern Winds",
+  "texture": "Barney.png",
+  "emissionTexture": "Barney_e.png"
+}

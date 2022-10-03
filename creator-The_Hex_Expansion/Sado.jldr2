@@ -1,0 +1,20 @@
+{
+  "name": "Sado",
+  "modPrefix": "HEX",
+  "displayedName": "Sado",
+  "description": "You are very creepy... How did you get here? *RUNS*",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "abilities": [
+    "DrawCopyOnDeath"
+  ],
+  "texture": "Sado.png",
+  "emissionTexture": "Sado_e.png"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lazarus",
+  "modPrefix": "HEX",
+  "displayedName": "Lazarus",
+  "description": "Would you please come here... No Guns Allowed!",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 4,
+  "baseHealth": 3,
+  "bloodCost": 3,
+  "abilities": [
+    "ActivatedDealDamage"
+  ],
+  "evolveIntoName": "",
+  "evolveTurns": 0,
+  "defaultEvolutionName": "SHOOT'EM UP",
+  "texture": "Lazrus.png",
+  "emissionTexture": "Lazrus_e.png"
+}

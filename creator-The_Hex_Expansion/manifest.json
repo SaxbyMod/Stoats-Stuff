@@ -1,0 +1,19 @@
+{
+  "name": "The_Hex_Expansion",
+  "version_number": "3.0.0",
+  "website_url": "",
+  "description": "Sado Has Decided to TRAP the members of the hex In Inscryption",
+  "dependencies": [
+    "BepInEx-BepInExPack_Inscryption-5.4.1901",
+    "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
+    "Silenceman-Act1_Colored_Portraits-1.0.1",
+    "API_dev-API-2.4.1",
+    "AllTheSigils-All_The_Sigils-2.5.5",
+    "MADH95Mods-JSONCardLoader-2.1.0",
+    "bitty45-BittysSigils-1.4.0",
+    "bitty45-BittysGramophoneExtender-1.0.0",
+    "Lily-ExtendedMapsKCM-1.0.0",
+    "Void_Slime-Region_Expansions-1.0.0",
+    "Infiniscryption-Pack_Management_API-1.0.7"
+  ]
+}

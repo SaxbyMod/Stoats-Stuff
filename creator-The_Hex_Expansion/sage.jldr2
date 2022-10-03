@@ -1,0 +1,21 @@
+{
+  "name": "Great_Sage",
+  "modPrefix": "HEX",
+  "displayedName": "Great Sage",
+  "description": "You look to Old to stand... Yet you are?",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "abilities": [
+    "Brittle"
+  ],
+  "defaultEvolutionName": "OLDIE",
+  "texture": "Great_sage.png",
+  "emissionTexture": "Great_sage_e.png"
+}

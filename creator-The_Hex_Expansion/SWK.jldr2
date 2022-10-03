@@ -1,0 +1,20 @@
+{
+  "name": "Swk",
+  "modPrefix": "HEX",
+  "displayedName": "Super Weasel Kid",
+  "description": "This is a peculiar Hedgehog... Also why is it Yellow?",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "abilities": [
+    "bitty45.inscryption.sigils.Jumper"
+  ],
+  "defaultEvolutionName": "Cool",
+  "texture": "Swk.png",
+  "emissionTexture": "Swk_e.png"
+}

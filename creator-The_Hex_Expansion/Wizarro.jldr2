@@ -1,0 +1,20 @@
+{
+  "name": "Wizarro",
+  "modPrefix": "HEX",
+  "displayedName": "Wizarro",
+  "description": "You look Like that weird Black void Over there!",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "abilities": [
+    "DrawCopy"
+  ],
+  "texture": "Wizarro.png",
+  "emissionTexture": "Wizarro_e.png"
+}

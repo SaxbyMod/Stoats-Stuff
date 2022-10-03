@@ -1,0 +1,21 @@
+{
+  "name": "Villager",
+  "modPrefix": "HEX",
+  "displayedName": "Villager",
+  "description": "Oh hello there Rando whats your name... Alara?",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 3,
+  "abilities": [
+    "SwapStats"
+  ],
+  "defaultEvolutionName": "Alara the",
+  "texture": "Villager.png",
+  "emissionTexture": "Villager_e.png"
+}

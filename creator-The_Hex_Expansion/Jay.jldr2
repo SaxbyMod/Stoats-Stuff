@@ -1,0 +1,21 @@
+{
+  "name": "Jay",
+  "modPrefix": "HEX",
+  "displayedName": "Jay",
+  "description": "Hey Janitor could you clean this challengers... hand please?",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "abilities": [
+    "Sniper"
+  ],
+  "defaultEvolutionName": "The great",
+  "texture": "Jay.png",
+  "emissionTexture": "Jay_e.png"
+}

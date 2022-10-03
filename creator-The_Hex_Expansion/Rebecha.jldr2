@@ -1,0 +1,21 @@
+{
+  "name": "Rebecha",
+  "modPrefix": "HEX",
+  "displayedName": "Rebecha",
+  "description": "Hey their Mechanic I need you to dismantle something... Over there!",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "bloodCost": 3,
+  "abilities": [
+    "GainBattery"
+  ],
+  "defaultEvolutionName": "The Great",
+  "texture": "Rebecha.png",
+  "emissionTexture": "Rebecha_e.png"
+}
