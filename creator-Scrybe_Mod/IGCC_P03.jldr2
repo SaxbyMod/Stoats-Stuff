@@ -1,0 +1,14 @@
+{
+	"name": "P03",
+	"modPrefix": "IGCC",
+	"displayedName": "P03",
+	"baseAttack": 2,
+	"baseHealth": 4,
+	"abilities": ["SwapStats","Sniper"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The scribe of technology",
+	"texture": "IGCC_P03.png",
+	"tribes": ["None"]
+}

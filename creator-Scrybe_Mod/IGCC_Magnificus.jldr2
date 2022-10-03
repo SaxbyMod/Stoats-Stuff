@@ -1,0 +1,13 @@
+{
+	"name": "Magnificus",
+	"modPrefix": "IGCC",
+	"displayedName": "Magnificus",
+	"baseAttack": 3,
+	"baseHealth": 3,
+	"abilities": ["QuadrupleBones","GemDependant"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The scrybe of magic",
+	"texture": "IGCC_Magnificus.png"
+}

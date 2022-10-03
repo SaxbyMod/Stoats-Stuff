@@ -1,0 +1,13 @@
+{
+	"name": "Pokemon_Scribe",
+	"modPrefix": "IGCC",
+	"displayedName": "Pokemon scrybe",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 2,
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "wait this isnt the right game",
+	"texture": "ralsei.png"
+}

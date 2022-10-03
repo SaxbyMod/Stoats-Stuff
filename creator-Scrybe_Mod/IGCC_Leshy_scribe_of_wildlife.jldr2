@@ -1,0 +1,16 @@
+{
+	"name": "Leshy_scrybe_of_wildlife",
+	"modPrefix": "IGCC",
+	"displayedName": "Leshy scribe of wildlife",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 3,
+	"abilities": ["AllStrike","MoveBeside"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The scrybe of Nature",
+	"texture": "IGCC_Leshy_scribe_of_wildlife.png",
+	"tribes": ["Squirrel","Insect","Bird","Canine","Hooved","Reptile"],
+	"traits": ["DeathcardCreationNonOption","KillsSurvivors"]
+}

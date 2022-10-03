@@ -1,0 +1,17 @@
+{
+	"name": "the_water_scrybe",
+	"modPrefix": "IGCC",
+	"displayedName": "The water scrybe",
+	"baseAttack": 2,
+	"baseHealth": 3,
+	"bloodCost": 3,
+	"abilities": ["TriStrike","Transformer","extraVoid.inscryption.voidSigils.Familiar"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Advanced",
+	"temple": "Nature",
+	"description": "The fire scribe wash's out",
+	"texture": "IGCC_The_Water_Scrybe.png",
+	"tribes": ["None"],
+	"evolveIntoName": "IGCC_Fire_scrybe",
+	"evolveTurns": 1
+}
