@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation105",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation105",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["julianperge.inscryption.sigiladay.Brimstone"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation105.png",
+	"tribes": ["None"]
+}

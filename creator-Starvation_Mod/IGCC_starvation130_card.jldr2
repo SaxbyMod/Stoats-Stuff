@@ -1,0 +1,15 @@
+{
+	"name": "IGCC_starvation130",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation130",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Wild hunger"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "IGCC_starvation130.png",
+	"tribes": ["None"]
+}

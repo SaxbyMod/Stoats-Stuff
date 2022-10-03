@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation129",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation129",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["AnthonyPython.inscryption.AnthonysSigils.Activated Latch Nano Shield"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation129.png",
+	"tribes": ["None"]
+}

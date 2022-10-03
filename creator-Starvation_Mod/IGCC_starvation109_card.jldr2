@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation109",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation109",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["AnthonyPython.inscryption.AnthonysSigils.To The Slaughter"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation109.png",
+	"tribes": ["None"]
+}

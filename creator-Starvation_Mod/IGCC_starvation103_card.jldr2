@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation103",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation103",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Transient"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation103.png",
+	"tribes": ["None"]
+}

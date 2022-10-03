@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation101",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation101",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["hannah.inscryption.phantomssackosigils.Drink Me"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation101.png",
+	"tribes": ["None"]
+}

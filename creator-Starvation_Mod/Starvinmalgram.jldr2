@@ -1,0 +1,10 @@
+{
+	"name": "Amalgam",
+	"displayedName": "StarvingMalgram",
+		"modPrefix": "IGCC",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"metaCategories": ["Rare"],
+	"description": ".",
+	"texture": "IGCC_starvation27.png"
+}

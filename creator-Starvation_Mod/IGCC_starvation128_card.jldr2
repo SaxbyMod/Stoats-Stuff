@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation128",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation128",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["org.memez4life.inscryption.customsigils.Imbuing"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation128.png",
+	"tribes": ["None"]
+}

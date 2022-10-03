@@ -1,0 +1,15 @@
+{
+	"name": "IGCC_Starvation121",
+	"modPrefix": "IGCC",
+	"displayedName": "Starvation121",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Random Strike"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"appearanceBehaviour": ["RareCardBackground"],
+	"texture": "IGCC_Starvation121.png",
+	"tribes": ["None"]
+}
