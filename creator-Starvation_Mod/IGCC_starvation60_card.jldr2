@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation60",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation60",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["Sentry"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation60.png",
+	"tribes": ["None"]
+}

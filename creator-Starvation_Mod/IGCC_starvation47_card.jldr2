@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation47",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation47",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["ConduitHeal"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation47.png",
+	"tribes": ["None"]
+}

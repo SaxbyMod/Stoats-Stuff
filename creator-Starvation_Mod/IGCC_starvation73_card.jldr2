@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation73",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation73",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["BuffEnemy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation73.png",
+	"tribes": ["None"]
+}

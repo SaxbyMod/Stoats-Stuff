@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation97",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation97",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["extraVoid.inscryption.voidSigils.Draw Jackalope"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation97.png",
+	"tribes": ["None"]
+}

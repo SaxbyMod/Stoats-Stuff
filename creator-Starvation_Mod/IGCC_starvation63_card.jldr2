@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation63",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation63",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["DrawVesselOnHit"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation63.png",
+	"tribes": ["None"]
+}

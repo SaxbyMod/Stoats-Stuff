@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation41",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation41",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["GemDependant"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation41.png",
+	"tribes": ["None"]
+}

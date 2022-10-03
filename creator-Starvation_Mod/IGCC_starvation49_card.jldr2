@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation49",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation49",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["GainBattery"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation49.png",
+	"tribes": ["None"]
+}

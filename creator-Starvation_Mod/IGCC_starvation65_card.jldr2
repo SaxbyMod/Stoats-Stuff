@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation65",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation65",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["BombSpawner"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation65.png",
+	"tribes": ["None"]
+}

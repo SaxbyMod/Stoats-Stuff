@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation19",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation19",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["Flying"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation19.png",
+	"tribes": ["None"]
+}

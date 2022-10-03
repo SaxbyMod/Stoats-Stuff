@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation85",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation85",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["SubmergeSquid"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation_85.png",
+	"tribes": ["None"]
+}

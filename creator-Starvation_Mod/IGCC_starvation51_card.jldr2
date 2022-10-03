@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation51",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation51",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["Sniper"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation51.png",
+	"tribes": ["None"]
+}

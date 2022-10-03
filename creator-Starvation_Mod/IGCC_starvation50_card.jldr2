@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation50",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation50",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["ExplodeOnDeath"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation50.png",
+	"tribes": ["None"]
+}

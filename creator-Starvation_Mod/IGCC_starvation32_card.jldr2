@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation32",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation32",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["BuffNeighbours"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation32.png",
+	"tribes": ["None"]
+}

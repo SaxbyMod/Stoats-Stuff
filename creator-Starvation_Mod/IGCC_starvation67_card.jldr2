@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation67",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation67",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["ActivatedRandomPowerEnergy"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation67.png",
+	"tribes": ["None"]
+}

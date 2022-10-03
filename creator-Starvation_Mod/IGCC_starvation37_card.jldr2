@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation37",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation37",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["GainGemBlue"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation37.png",
+	"tribes": ["None"]
+}

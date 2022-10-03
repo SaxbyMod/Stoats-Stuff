@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation26",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation26",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["BoneDigger"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation26.png",
+	"tribes": ["None"]
+}

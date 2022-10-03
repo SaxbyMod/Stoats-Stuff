@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation16",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation16",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["StrafePush"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation16.png",
+	"tribes": ["None"]
+}

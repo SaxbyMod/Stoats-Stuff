@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_Starvation1",
+	"modPrefix": "IGCC",
+	"displayedName": "Starvation1",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["DrawRabbits"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_Starvation1.png",
+	"tribes": ["None"]
+}

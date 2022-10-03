@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_Starvation2",
+	"modPrefix": "IGCC",
+	"displayedName": "Starvation2",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["BeesOnHit"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_Starvation2.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation66",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation66",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["DoubleDeath"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation66.png",
+	"tribes": ["None"]
+}

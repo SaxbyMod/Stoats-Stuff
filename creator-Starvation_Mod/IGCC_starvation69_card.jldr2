@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation69",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation69",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["SwapStats"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation69.png",
+	"tribes": ["None"]
+}

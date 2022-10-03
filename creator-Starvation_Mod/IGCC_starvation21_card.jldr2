@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation21",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation21",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["TripleBlood"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation21.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation74",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation74",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["ConduitSpawnGems"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation74.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation13",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation13",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["Submerge"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation13.png",
+	"tribes": ["None"]
+}

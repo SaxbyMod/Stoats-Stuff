@@ -1,0 +1,10 @@
+{
+	"name": "PackRat",
+	"displayedName": "StarvingRat",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["RandomConsumable"],
+	"metaCategories": ["Rare"],
+	"description": ".",
+	"texture": "IGCC_starvation27.png"
+}

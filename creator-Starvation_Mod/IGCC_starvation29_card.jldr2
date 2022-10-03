@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation29",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation29",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["RandomAbility"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation29.png",
+	"tribes": ["None"]
+}

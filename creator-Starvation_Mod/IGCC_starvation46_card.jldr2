@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation46",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation46",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["ConduitFactory"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation46.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["PreventAttack"],
+	"metaCategories": ["Rare"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation.png",
+	"tribes": ["None"]
+}

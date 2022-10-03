@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation91",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation91",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["AnthonyPython.inscryption.AnthonysSigils.Activated Latch Explode On Death"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation91.png",
+	"tribes": ["None"]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation12",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation12",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["QuadrupleBones"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation12.png",
+	"tribes": ["None"]
+}

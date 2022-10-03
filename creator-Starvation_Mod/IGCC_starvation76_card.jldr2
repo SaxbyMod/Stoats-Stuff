@@ -1,0 +1,14 @@
+{
+	"name": "IGCC_starvation76",
+	"modPrefix": "IGCC",
+	"displayedName": "starvation76",
+	"baseAttack": 1,
+	"baseHealth": 1,
+	"abilities": ["Loot"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": ".",
+	"texture": "IGCC_starvation76.png",
+	"tribes": ["None"]
+}
