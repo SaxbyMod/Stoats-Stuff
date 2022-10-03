@@ -1,0 +1,24 @@
+{
+  "name": "The_Seventh_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Seventh Doctor",
+  "description": "Sylvester McCoy Regenerated due to a gunshot in San Francisco, Then he was taken to a hospital, Due to the doctors double heart beat Fibrillation caused him to \"Die\", Several Hours later he had managed to regenerate once more.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 7,
+  "baseHealth": 14,
+  "bloodCost": 7,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_Eighth_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW7.png",
+  "emissionTexture": "DW7_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}

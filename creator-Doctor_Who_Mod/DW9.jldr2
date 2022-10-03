@@ -1,0 +1,24 @@
+{
+  "name": "The_Ninth_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Ninth Doctor",
+  "description": "Christopher Eccleston \"Died\" to the dalek's But Rose Tyler resurrected him By harnessing the Tardis's Core.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 9,
+  "baseHealth": 18,
+  "bloodCost": 9,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_Tenth_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW9.png",
+  "emissionTexture": "DW9_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}

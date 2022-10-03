@@ -1,0 +1,24 @@
+{
+  "name": "The_Second_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Second Doctor",
+  "description": "Patrick Troughton Regenerated  due to The Time Lords Banishing The doctor back to Earth.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 4,
+  "bloodCost": 2,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_Third_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW2.png",
+  "emissionTexture": "DW2_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}

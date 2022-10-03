@@ -1,0 +1,7 @@
+{
+	"Title": "DOCTOR WHO",
+	"Description": "WELCOME TO DOCTOR WHO!",
+	"ModPrefix": "DW",
+	"PackArt": "pack.png",
+    "ValidFor": ["LeshyPack"]
+}

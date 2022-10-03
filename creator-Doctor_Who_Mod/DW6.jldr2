@@ -1,0 +1,24 @@
+{
+  "name": "The_Sixth_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Sixth Doctor",
+  "description": "Colin Baker had regenerated due to the Rani. This doctor was also known as the controversial doctor.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 6,
+  "baseHealth": 12,
+  "bloodCost": 6,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_Seventh_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW6.png",
+  "emissionTexture": "DW6_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}

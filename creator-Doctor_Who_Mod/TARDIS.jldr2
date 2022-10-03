@@ -1,0 +1,21 @@
+{
+  "name": "TARDIS",
+  "modPrefix": "DW",
+  "displayedName": "TARDIS",
+  "description": "TIME AND RELATIVE DIMENSION IN SPACE",
+  "metaCategories": [
+    "ChoiceNode",
+    "TraderOffer"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "energyCost": 6,
+  "abilities": [
+    "org.memez4life.inscryption.customsigils.Warper"
+  ],
+  "decals": [
+    "DW.png"
+  ]
+}

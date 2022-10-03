@@ -1,0 +1,24 @@
+{
+  "name": "The_Twelfth_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Twelfth Doctor",
+  "description": "Peter Capaldi Regenerated due to A cyberman but had been resisting regeneration until finally he had too.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 12,
+  "baseHealth": 24,
+  "bloodCost": 12,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_Thirteenth_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW12.png",
+  "emissionTexture": "DW12_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}

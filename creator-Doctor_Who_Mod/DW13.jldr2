@@ -1,0 +1,24 @@
+{
+  "name": "The_Thirteenth_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Thirteenth Doctor",
+  "description": "Jodie Whittaker Hasnt regenerated as of this moment but it is to come.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 13,
+  "baseHealth": 26,
+  "bloodCost": 13,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_First_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW13.png",
+  "emissionTexture": "DW13_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "The_Eighth_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Eighth Doctor",
+  "description": "Paul McGann Regenerated due to The war of the Daleks and the Time Lords. Also known as the American Doctor.",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 8,
+  "baseHealth": 16,
+  "bloodCost": 8,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_War_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW8.png",
+  "emissionTexture": "DW8_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}

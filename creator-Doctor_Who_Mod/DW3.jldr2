@@ -1,0 +1,24 @@
+{
+  "name": "The_Third_Doctor",
+  "modPrefix": "DW",
+  "displayedName": "The Third Doctor",
+  "description": "Jon Pertwee Had been banished to earth and got regenerated due to The eight legs of Metebelis III",
+  "metaCategories": [
+    "Rare"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 6,
+  "bloodCost": 3,
+  "abilities": [
+    "Evolve"
+  ],
+  "evolveIntoName": "DW_The_Forth_Doctor",
+  "evolveTurns": 1,
+  "texture": "DW3.png",
+  "emissionTexture": "DW3_e.png",
+  "decals": [
+    "DW.png"
+  ]
+}
