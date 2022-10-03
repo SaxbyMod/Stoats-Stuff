@@ -1,0 +1,17 @@
+{
+	"name": "IGCC_Mystery_Man",
+	"modPrefix": "IGCC",
+	"displayedName": "Mystery Man",
+	"baseAttack": 2,
+	"baseHealth": 2,
+	"bonesCost": 2,
+	"energyCost": 0,
+	"abilities": ["RandomAbility"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "*MUTE*",
+	"texture": "IGCC_Mystery_Man.png",
+	"emissionTexture": "IGCC_Mystery_Man_emmision.png",
+	"tribes": ["None"]
+}

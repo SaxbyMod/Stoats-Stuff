@@ -1,0 +1,16 @@
+{
+	"name": "IGCC_mr_shrewd",
+	"modPrefix": "IGCC",
+	"displayedName": "Mr Shrewd",
+	"baseAttack": 2,
+	"baseHealth": 1,
+	"bloodCost": 1,
+	"abilities": ["WhackAMole"],
+	"metaCategories": ["ChoiceNode","TraderOffer"],
+	"cardComplexity": "Vanilla",
+	"temple": "Nature",
+	"description": "Why am i wearing glasses",
+	"texture": "Mr_Shrewd.png",
+	"emissionTexture": "Mr_Shrewd_emmision.png",
+	"tribes": ["Squirrel"]
+}
