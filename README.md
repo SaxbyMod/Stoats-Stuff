@@ -1,5 +1,5 @@
-# The-Unwanted-Libaries
-This houses all of the Unwanted Libaries
+# Stoats Stuff
+This houses all of Stoats Stuff
 
 
 
@@ -26,4 +26,6 @@ Creator-Kaycees_mod_decks is the Kaycees mod decks Mod (Json)
 Creator-The_Hex_Expansion is the "The hex expansion" Mod (Json)
 
 
-Use "Issues" for any Suggestions for the Apps || for Issues with anything
+
+
+Use "Issues" for any Suggestions for the Apps or for Issues with anything
