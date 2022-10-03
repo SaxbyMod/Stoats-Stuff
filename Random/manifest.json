@@ -1,0 +1,11 @@
+{
+	"name": "Randomized_Starters",
+	"version_number": "2.1.0",
+	"website_url": "https://pickerwheel.com/pw?id=bjTPg",
+	"description": "Randomized_Starters Note does not randomize on run start as im using Json loader in witch means you have to do die on page 2 3 4 5 6 7 8 Adds 56 Starter Decks(Heavily Unbalanced) [If you want it Fully Randomized click the dice on the starter deck page]",
+	"dependencies": [
+		"BepInEx-BepInExPack_Inscryption-5.4.1701",
+		"API_dev-API-2.1.0",
+		"MADH95Mods-JSONCardLoader-2.1.0"
+	]
+}
