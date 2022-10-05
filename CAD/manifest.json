@@ -1,0 +1,13 @@
+{
+  "name": "CAD_Card_A_Day",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/SaxbyMod/Stoats-Stuff",
+  "description": "This is my equivalent to the Mod sigil a day I am adding 1 Card per day (Hopefully Unique) There is Currently 1 Card added",
+  "dependencies": [
+    "BepInEx-BepInExPack_Inscryption-5.4.1902",
+    "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
+    "API_dev-API-2.4.1",
+    "The_Unwanted_but_Useful_Libraries-Tribal_Libary-1.7.0",
+    "MADH95Mods-JSONCardLoader-2.1.1"
+  ]
+}

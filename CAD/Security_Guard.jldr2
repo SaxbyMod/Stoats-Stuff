@@ -1,0 +1,25 @@
+{
+  "name": "Security_Guard",
+  "modPrefix": "CAD",
+  "displayedName": "Security Guard ",
+  "description": "I dont know how but a Security Guard got lost out here in the middle of my woods...",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "tribes": [
+    "tribes.libary.security"
+  ],
+  "abilities": [
+    "GuardDog",
+    "Reach"
+  ],
+  "defaultEvolutionName": "That was Quick",
+  "texture": "Security_Guard.png",
+  "emissionTexture": "Security_Guard_e.png",
+  "pixelTexture": "Security_Guard_p.png"
+}
