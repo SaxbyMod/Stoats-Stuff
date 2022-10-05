@@ -25,6 +25,8 @@ Creator-Kaycees_mod_decks is the Kaycees mod decks Mod (Json)
 
 Creator-The_Hex_Expansion is the "The hex expansion" Mod (Json)
 
+CAD is the Card a Day mod (Json)
+
 
 
 
