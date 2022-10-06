@@ -1,0 +1,33 @@
+{
+  "name": "Second_Security_Guard",
+  "modPrefix": "CAD",
+  "displayedName": "Security Guard",
+  "description": "How did they get lost in the woods?",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 2,
+  "bonesCost": 4,
+  "energyCost": 6,
+  "specialStatIcon": "Mirror",
+  "tribes": [
+    "tribes.libary.security"
+  ],
+  "traits": [
+    "KillsSurvivors"
+  ],
+  "specialAbilities": [
+    "Mirror"
+  ],
+  "abilities": [
+    "ActivatedDrawSkeleton",
+    "ActivatedEnergyToBones"
+  ],
+  "defaultEvolutionName": "Brutal Security Guard",
+  "texture": "Second_Security_Guard.png",
+  "emissionTexture": "Second_Security_Guard_e.png",
+  "pixelTexture": "Second_Security_Guard_p.png"
+}

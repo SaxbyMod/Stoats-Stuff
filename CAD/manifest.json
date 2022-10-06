@@ -1,8 +1,8 @@
 {
   "name": "CAD_Card_A_Day",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/SaxbyMod/Stoats-Stuff",
-  "description": "This is my equivalent to the Mod sigil a day I am adding 1 Card per day (Hopefully Unique) There is Currently 1 Card added",
+  "description": "This is my equivalent to the Mod \"sigil a day\" I am adding 1 Card per day (Hopefully Unique) There is Currently 2 Cards in Game",
   "dependencies": [
     "BepInEx-BepInExPack_Inscryption-5.4.1902",
     "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
