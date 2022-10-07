@@ -2911,19 +2911,19 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.8.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thinc\\Source\\Repos\\InscryptionExampleMod\\ExampleMod.csproj",
+      "projectUniqueName": "C:\\Users\\Thinc\\source\\repos\\InscryptionExampleMod\\ExampleMod.csproj",
       "projectName": "TribeLibary",
-      "projectPath": "C:\\Users\\Thinc\\Source\\Repos\\InscryptionExampleMod\\ExampleMod.csproj",
+      "projectPath": "C:\\Users\\Thinc\\source\\repos\\InscryptionExampleMod\\ExampleMod.csproj",
       "packagesPath": "C:\\Users\\Thinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thinc\\Source\\Repos\\InscryptionExampleMod\\obj\\",
+      "outputPath": "C:\\Users\\Thinc\\source\\repos\\InscryptionExampleMod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thinc\\Source\\Repos\\InscryptionExampleMod\\NuGet.Config",
+        "C:\\Users\\Thinc\\source\\repos\\InscryptionExampleMod\\NuGet.Config",
         "C:\\Users\\Thinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
