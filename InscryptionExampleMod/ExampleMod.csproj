@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>TribeLibary</AssemblyName>
     <Description>A Libary of Tribes</Description>
-    <Version>1.8.0</Version>
+    <Version>1.9.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>Latest</LangVersion>
   </PropertyGroup>

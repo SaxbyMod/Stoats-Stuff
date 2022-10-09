@@ -32,6 +32,16 @@ namespace TribalLibary
         public static Tribe rodentTribe;
         public static Tribe ceromorphTribe;
         public static Tribe dragonTribe;
+        public static Tribe fishTribe;
+        public static Tribe beastTribe;
+        public static Tribe beastwarriorTribe;
+        public static Tribe aquaTribe;
+        public static Tribe fairyTribe;
+        public static Tribe plantTribe;
+        public static Tribe pyroTribe;
+        public static Tribe stoneTribe;
+        public static Tribe thunderTribe;
+        public static Tribe iceTribe;
 
         public void Awake()
         {
@@ -188,6 +198,96 @@ namespace TribalLibary
                     tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_dragon.png"),
                     appearInTribeChoices: true,
                     choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_NATURE_dragon.png")
+                 );
+            }
+            {
+                beastTribe = TribeManager.Add(
+                    PluginGuid,
+                    "beast",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_beast.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_NATURE_beast.png")
+                 );
+            }
+            {
+                beastwarriorTribe = TribeManager.Add(
+                    PluginGuid,
+                    "beastwarrior",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_beastwarrior.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_NATURE_beastwarrior.png")
+                 );
+            }
+            {
+                fishTribe = TribeManager.Add(
+                    PluginGuid,
+                    "fish",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_fish.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_NATURE_fish.png")
+                 );
+            }
+            {
+                aquaTribe = TribeManager.Add(
+                    PluginGuid,
+                    "aqua",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_aqua.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_aqua.png")
+                 );
+            }
+            {
+                fairyTribe = TribeManager.Add(
+                    PluginGuid,
+                    "fairy",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_fairy.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_MAGIKS_fairy.png")
+                 );
+            }
+            {
+                plantTribe = TribeManager.Add(
+                    PluginGuid,
+                    "plant",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_plant.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_plant.png")
+                 );
+            }
+            {
+                pyroTribe = TribeManager.Add(
+                    PluginGuid,
+                    "pyro",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_pyro.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_pyro.png")
+                 );
+            }
+            {
+                stoneTribe = TribeManager.Add(
+                    PluginGuid,
+                    "stone",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_stone.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_stone.png")
+                 );
+            }
+            {
+                thunderTribe = TribeManager.Add(
+                    PluginGuid,
+                    "thunder",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_thunder.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_thunder.png")
+                 );
+            }
+            {
+                iceTribe = TribeManager.Add(
+                    PluginGuid,
+                    "ice",
+                    tribeIcon: TextureHelper.GetImageAsTexture("tribeicon_ice.png"),
+                    appearInTribeChoices: true,
+                    choiceCardbackTexture: TextureHelper.GetImageAsTexture("card_rewardback_BASIC_ice.png")
                  );
             }
         }
