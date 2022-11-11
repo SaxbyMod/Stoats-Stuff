@@ -1,0 +1,11 @@
+{
+  "name": "Inscryption_Gramophone_Expansion",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Death-card Cabin reprise and so many more have finally been added to the Gramophone (When Gramophone API officially releases it will be added as a dependency instead of a file in the mod.)",
+  "dependencies": [
+    "BepInEx-BepInExPack_Inscryption-5.4.1902",
+    "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
+    "API_dev-API-2.6.0"
+  ]
+}
