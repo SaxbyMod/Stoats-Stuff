@@ -25,7 +25,9 @@ Creator-Kaycees_mod_decks is the Kaycees mod decks Mod (Json)
 
 Creator-The_Hex_Expansion is the "The hex expansion" Mod (Json)
 
-ConsoleApp2 is my own Text adventure!
+ConsoleApp2 is my own Text adventure! (C#)
+
+InscryptionGramophoneExpansion is My new Custom Music mod (Requires Gramophone API) (C#)
 
 
 Use "Issues" for any Suggestions for the Apps or for Issues with anything
