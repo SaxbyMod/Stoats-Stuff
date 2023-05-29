@@ -10,7 +10,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="API_dev-API" Version="2.4.0" />
     <PackageReference Include="BepInEx-MonoMod_Loader_Inscryption" Version="1.0.0" />
     <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
     <PackageReference Include="BepInEx.Core" Version="5.*" />
@@ -24,9 +23,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="GramophoneAPI.dll">
-    </Reference>    <Reference Include="GramophoneAPI">
-      <HintPath>..\..\..\mods\Inscryption\profiles\Music Mod\BepInEx\plugins\MusicMod\GramophoneAPI.dll</HintPath>
+
+    <Reference Include="InscryptionAPI">
+      <HintPath>..\..\..\..\mods\Inscryption\profiles\Multiplayer_\BepInEx\plugins\API_dev-API\InscryptionAPI.dll</HintPath>
+    </Reference>
+
+    <Reference Include="InscryptionCommunityPatch">
+      <HintPath>..\..\..\..\mods\Inscryption\profiles\Multiplayer_\BepInEx\plugins\API_dev-API\InscryptionCommunityPatch.dll</HintPath>
     </Reference>
 
     <Reference Include="Sirenix.Serialization">

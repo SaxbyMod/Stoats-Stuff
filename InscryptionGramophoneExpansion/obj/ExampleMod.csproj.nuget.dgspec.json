@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thinc\\source\\repos\\InscryptionGramophoneExpansion\\ExampleMod.csproj": {}
+    "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\ExampleMod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thinc\\source\\repos\\InscryptionGramophoneExpansion\\ExampleMod.csproj": {
+    "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\ExampleMod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thinc\\source\\repos\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
+        "projectUniqueName": "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
         "projectName": "ExpandedGramaphoneMod",
-        "projectPath": "C:\\Users\\Thinc\\source\\repos\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
+        "projectPath": "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
         "packagesPath": "C:\\Users\\Thinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thinc\\source\\repos\\InscryptionGramophoneExpansion\\obj\\",
+        "outputPath": "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Thinc\\source\\repos\\InscryptionGramophoneExpansion\\NuGet.Config",
+          "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\NuGet.Config",
           "C:\\Users\\Thinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -48,10 +48,6 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
-            "API_dev-API": {
-              "target": "Package",
-              "version": "[2.4.0, )"
-            },
             "BepInEx-MonoMod_Loader_Inscryption": {
               "target": "Package",
               "version": "[1.0.0, )"

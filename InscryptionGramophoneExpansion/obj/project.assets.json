@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "API_dev-API/2.4.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Assembly-CSharp.APIPatcher.mm.dll": {},
-          "lib/netstandard2.0/InscryptionAPI.dll": {},
-          "lib/netstandard2.0/InscryptionCommunityPatch.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Assembly-CSharp.APIPatcher.mm.dll": {},
-          "lib/netstandard2.0/InscryptionAPI.dll": {},
-          "lib/netstandard2.0/InscryptionCommunityPatch.dll": {}
-        }
-      },
       "BepInEx-MonoMod_Loader_Inscryption/1.0.0": {
         "type": "package",
         "compile": {
@@ -693,19 +680,6 @@
     }
   },
   "libraries": {
-    "API_dev-API/2.4.0": {
-      "sha512": "eW/gvDM4SeZxWICyVUgiij9hYJSyvxUlMmBu7YEk9ULFFXzzuF1sux5JAKEJxSi5qAyC1siAA6pn6oCoy/lG9Q==",
-      "type": "package",
-      "path": "api_dev-api/2.4.0",
-      "files": [
-        ".nupkg.metadata",
-        "api_dev-api.2.4.0.nupkg.sha512",
-        "api_dev-api.nuspec",
-        "lib/netstandard2.0/Assembly-CSharp.APIPatcher.mm.dll",
-        "lib/netstandard2.0/InscryptionAPI.dll",
-        "lib/netstandard2.0/InscryptionCommunityPatch.dll"
-      ]
-    },
     "BepInEx-MonoMod_Loader_Inscryption/1.0.0": {
       "sha512": "i+X7GRNnUhnJFelGhZ+ncFPutHUkmPBz4SqGofiCRBdMDt7i2zQnqEzByog7NixWGHv10zAs9PLCsG1YhdLu9w==",
       "type": "package",
@@ -2896,7 +2870,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "API_dev-API >= 2.4.0",
       "BepInEx-MonoMod_Loader_Inscryption >= 1.0.0",
       "BepInEx.Analyzers >= 1.*",
       "BepInEx.Core >= 5.*",
@@ -2913,17 +2886,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thinc\\Source\\Repos\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
+      "projectUniqueName": "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
       "projectName": "ExpandedGramaphoneMod",
-      "projectPath": "C:\\Users\\Thinc\\Source\\Repos\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
+      "projectPath": "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\ExampleMod.csproj",
       "packagesPath": "C:\\Users\\Thinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thinc\\Source\\Repos\\InscryptionGramophoneExpansion\\obj\\",
+      "outputPath": "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thinc\\Source\\Repos\\InscryptionGramophoneExpansion\\NuGet.Config",
+        "C:\\Users\\Thinc\\Source\\Repos\\Stoats-Stuff\\InscryptionGramophoneExpansion\\NuGet.Config",
         "C:\\Users\\Thinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -2954,10 +2927,6 @@
       "netstandard2.0": {
         "targetAlias": "netstandard2.0",
         "dependencies": {
-          "API_dev-API": {
-            "target": "Package",
-            "version": "[2.4.0, )"
-          },
           "BepInEx-MonoMod_Loader_Inscryption": {
             "target": "Package",
             "version": "[1.0.0, )"
